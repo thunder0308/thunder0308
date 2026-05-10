@@ -2,7 +2,10 @@
 
 Detail-oriented cybersecurity professional dedicated to protecting organizations and the people they serve. Knowledgeable about NIST frameworks and able to implement security controls to ensure compliance with international regulations related to data protection. Experience with identifying threats, risks, and vulnerabilities; security hardening; threat modeling; and incident escalation and response. Proficient in the use of Linux command line, SQL, and Python. Strong communication and problem-solving skills. Recently completed the Google Cybersecurity Certificate, a rigorous, skills-based program that covers key cybersecurity knowledge and skills.
 
-[![Google Cybersecurity Professional Certificate](https://images.credly.com/size/220x220/images/ef9f86ad-4e53-4dbc-8951-e4cab81ff09e/blob)](https://www.credly.com/badges/34effcbc-b779-4579-8ccd-d037437a65a8/public_url)
+### 🎓 Certifications
+| Google Cybersecurity Professional | CompTIA Security+ (In Progress) |
+| :---: | :---: |
+| <a href="https://www.credly.com/badges/34effcbc-b779-4579-8ccd-d037437a65a8/public_url"><img src="https://images.credly.com/size/220x220/images/ef9f86ad-4e53-4dbc-8951-e4cab81ff09e/blob" width="150" alt="Google Cyber"></a> | <img src="URL_TO_COMMING_SOON_PLACEHOLDER" width="150" alt="Security+"> |
 <!--
 **thunder0308/thunder0308** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
