@@ -5,7 +5,7 @@ Detail-oriented cybersecurity professional dedicated to protecting organizations
 ### 🎓 Certifications
 | Google Cybersecurity Professional | CompTIA Security+ (In Progress) |
 | :---: | :---: |
-| <a href="https://www.credly.com/badges/34effcbc-b779-4579-8ccd-d037437a65a8/public_url"><img src="https://images.credly.com/size/220x220/images/ef9f86ad-4e53-4dbc-8951-e4cab81ff09e/blob" width="150" alt="Google Cyber"></a> | <img src="URL_TO_COMMING_SOON_PLACEHOLDER" width="150" alt="Security+"> |
+| <a href="https://www.credly.com/badges/34effcbc-b779-4579-8ccd-d037437a65a8/public_url"><img src="https://images.credly.com/size/220x220/images/ef9f86ad-4e53-4dbc-8951-e4cab81ff09e/blob" width="150" alt="Google Cyber"></a> | <img src="https://www.comptia.org/_next/image/?url=https%3A%2F%2Fimages4.cmp.optimizely.com%2F8623b0fab71111efac96d615e91762a5%3Fwidth%3D300%26height%3D300&w=640&q=90" width="150" alt="Security+"> |
 <!--
 **thunder0308/thunder0308** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
