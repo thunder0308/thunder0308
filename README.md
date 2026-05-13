@@ -21,5 +21,3 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### 🔗 Connect with me:
-[LinkedIn](linkedin.com/in/pranshuparashar)| [Email](mailto:pranshu030803@gmail.com)
